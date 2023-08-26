@@ -1,5 +1,4 @@
 ## CLASS Meet SPOCK: An Education Tutoring Chatbot based on Learning Science Principles
-Arxiv Paper Link: https://arxiv.org/abs/2305.13272
 
 Model: [https://huggingface.co/luffycodes/tutorbot-spock-bio-llama-diff](https://huggingface.co/anonuseranonuser/tutorbot-spock-bio-llama-diff)
 

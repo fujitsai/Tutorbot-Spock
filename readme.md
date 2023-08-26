@@ -1,8 +1,8 @@
 ## CLASS Meet SPOCK: An Education Tutoring Chatbot based on Learning Science Principles
 
-Model: [https://huggingface.co/luffycodes/tutorbot-spock-bio-llama-diff](https://huggingface.co/anonuseranonuser/tutorbot-spock-bio-llama-diff)
+Model: [https://huggingface.co/anonuseranonuser/tutorbot-spock-bio-llama-diff](https://huggingface.co/anonuseranonuser/tutorbot-spock-bio-llama-diff)
 
-Dataset: [https://huggingface.co/datasets/luffycodes/Tutorbot-Spock-Bio-Dataset](https://huggingface.co/datasets/anonuseranonuser/Tutorbot-Spock-Bio-Dataset)
+Dataset: [https://huggingface.co/datasets/anonuseranonuser/Tutorbot-Spock-Bio-Dataset](https://huggingface.co/datasets/anonuseranonuser/Tutorbot-Spock-Bio-Dataset)
 
 We train an education tutoring chatbot, Spock, on Llama-13B + Vicuna-13B weights (https://github.com/lm-sys/FastChat/) weights.
 To train the chatbot, we create a synthetic dataset of mock conversations between a student and a tutor based on learning science principles like scaffolding.

@@ -1,4 +1,4 @@
-## CLASS Meet SPOCK: An Education Tutoring Chatbot based on Learning Science Principles
+## CLASS: A Design Framework for building Intelligent Tutoring Systems based on Learning Science principles
 
 Model: [https://huggingface.co/anonuseranonuser/tutorbot-spock-bio-llama-diff](https://huggingface.co/anonuseranonuser/tutorbot-spock-bio-llama-diff)
 

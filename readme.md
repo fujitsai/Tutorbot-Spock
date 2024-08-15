@@ -20,7 +20,7 @@ To use the models, first install the [fastchat](https://github.com/lm-sys/FastCh
 
 For easier access of the models, download them directly from Hugging Face. <br>
 SFT Models:
-- [mistral-7b-instruct-v0.2-class-bio-tutor-sft](https://huggingface.co/kangqi-ni/mistral-7b-instruct-v0.2-class-bio-tutor-sft)
+- [mistral-7b-instruct-v0.2-class-bio-tutor-dpo](https://huggingface.co/kangqi-ni/mistral-7b-instruct-v0.2-class-bio-tutor-dpo)
 - [zephyr-7b-beta-class-bio-tutor-sft](https://huggingface.co/kangqi-ni/zephyr-7b-beta-class-bio-tutor-sft)
 - [vicuna-7b-v1.5-class-bio-tutor-sft](https://huggingface.co/kangqi-ni/vicuna-7b-v1.5-class-bio-tutor-sft)
 
